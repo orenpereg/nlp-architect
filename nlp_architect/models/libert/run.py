@@ -107,4 +107,5 @@ def main(config_yaml):
         significance_report_from_cfg(cfg, LIBERT_DIR / 'logs', exp_id)
 
 if __name__ == "__main__":
-    main(argv[1])
+    #main(argv[1])
+    main("oren")
